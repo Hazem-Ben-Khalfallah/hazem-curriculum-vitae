@@ -1,0 +1,44 @@
+% !TEX TS-program = luatex
+% Awesome Source CV LaTeX Template
+%
+% This template has been downloaded from:
+% https://github.com/Hazem-Ben-Khalfallah/hazem-curriculum-vitae
+%
+% Author:
+% Hazem Ben Khalfallah
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+\documentclass[localFont,alternative]{curriculum-vitae-settings}
+\name{Hazem}{Ben Khalfallah}
+\tagline{Tunis Engineering Manager at Influans, CSM®}
+\photo{2.5cm}{hazem}
+\socialinfo{
+	\linkedin{hazembenkhalfallah}
+	\github{Hazem-Ben-Khalfallah}\\
+	\smartphone{+216 22 92 92 90}
+	\email{benkhalfallahhazem@mail.com}\\
+	\address{Tunis, Tunisia}
+}
+
+\begin{document}
+
+	\makecvheader
+
+	\makecvfooter
+		{}
+		{\textsc{Hazem Ben Khalfallah - CV}}
+		{Page \thepage \hspace{1pt} of \pageref{LastPage}}
+
+	\input{section_headline} % Short description
+	\input{section_soft_skills} % Section Soft skills
+	\input{section_technical_skills} % Section Technical skills
+	\input{section_work_experience} % Section work experience
+	\input{section_certifications_languages} % Section certifications and languages
+	\input{section_education} % Section scholarité
+	\input{section_projets}
+	\input{section_references} % Section références
+
+
+\end{document}
