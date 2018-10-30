@@ -1,4 +1,4 @@
-Awesome Source CV [![Example](https://img.shields.io/badge/Exemple-pdf-blue.svg)](https://github.com/Hazem-Ben-Khalfallah/hazem-curriculum-vitae/raw/master/Hazem_Curriculum_Vitae.pdf)
+Hazem Ben Khalfallah CV - Latex Source [![Example](https://img.shields.io/badge/Exemple-pdf-blue.svg)](https://github.com/Hazem-Ben-Khalfallah/hazem-curriculum-vitae/raw/master/Hazem_Curriculum_Vitae.pdf)
 =================
 
 ## About
