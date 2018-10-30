@@ -500,10 +500,17 @@
   \end{minipage}
   }
 
+% Define a 'referee' entry
+% Usage:
+% \referee
+%   {<referee name>}
+%   {<referee Title/position>}
+%   {<referee email>}
+%   {<referee Phone>}
 \newcommand*\referee[5]{
   \hspace{1em}
   \begin{minipage}[t]{\dimexpr(\linewidth/3) - 3em}
-    \epigraph{#1}{\textbf{#2} \\  \textit{#3 - \textsc{#4} \\ #5}}
+    \epigraph{#1}{\textbf{#2} \\  \textit{#3} \\ \textit{#4}  \\ #5}
 
   \end{minipage}%
 }
