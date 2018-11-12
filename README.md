@@ -1,9 +1,9 @@
-Hazem Ben Khalfallah CV - Latex Source [![Example](https://img.shields.io/badge/Exemple-pdf-blue.svg)](https://github.com/Hazem-Ben-Khalfallah/hazem-curriculum-vitae/raw/master/Hazem_Curriculum_Vitae.pdf)
+Awesome Source CV [![Example](https://img.shields.io/badge/Exemple-pdf-blue.svg)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
 =================
 
 ## About
 
-**My Personal Latex CV** is based on a CV template created by Alessandro Plasmati. The original template use _XeLaTeX_ engine and _[Fontin Sans](http://www.exljbris.com/fontinsans.html)_ font. 
+**Awesome Source Latex CV** is based on a CV template created by Alessandro Plasmati. The original template use _XeLaTeX_ engine and _[Fontin Sans](http://www.exljbris.com/fontinsans.html)_ font. 
 
 More informations about the original Alessandro Plasmati template can be found here :
 
